@@ -1,0 +1,1 @@
+console.log("Jino Carlo Magan Portfolio is ready!");
